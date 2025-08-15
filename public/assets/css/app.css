@@ -1,0 +1,6 @@
+.sidebar{min-width:250px;max-width:250px}
+.sidebar .nav-link{border-radius:.5rem}
+.sidebar .nav-link:hover{background:rgba(255,255,255,.1)}
+.btn-nota{width:42px;height:42px;border-radius:50%}
+.btn-nota.active{background:#0d6efd;color:#fff}
+.table td,.table th{vertical-align:middle}
